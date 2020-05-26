@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research interests lie in the areas of information theory, statistics, and machine learning. My current research focuses on understanding the role of implicit (or algorithmic) regularization in deep learning.
+My research interests lie in the areas of information theory, statistics, and machine learning. My current research focuses on understanding the role of implicit, or algorithmic regularization in deep learning.
 
 ---
 In my PhD, I developed new methods to decompose information into parts that allow for a fine-grained analysis of how information is distributed over composite systems. These methods are potentially useful in applications ranging from neuroscience and representation learning, to robotics, and cryptography. 
