@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research interests lie in the areas of information theory, statistics, and machine learning. In particular, I am interested in understanding the implicit inductive bias of deep learning algorithms and their information-theoretic stability properties. 
+My research interests lie in the areas of information theory, statistics, and machine learning. In particular, I am interested in understanding the implicit inductive bias and information-theoretic stability properties of deep learning algorithms. 
 
 ---
 In my PhD, I developed new methods to decompose information into parts that allow for a fine-grained analysis of how information is distributed over composite systems. These methods are potentially useful in applications ranging from neuroscience and representation learning, to robotics, and cryptography. 
