@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc in the group of [Guido Mont&uacute;far](https://www.math.ucla.edu/~montufar/) at [MPI MiS](https://www.mis.mpg.de/montufar/index.html). My research interests lie in the areas of information theory, statistics, and machine learning. 
+I am a Postdoc in the group of [Guido Mont&uacute;far](https://www.math.ucla.edu/~montufar/) at [MPI MiS](https://www.mis.mpg.de/montufar/index.html), where I work on algorithmic regularization in deep learning. 
 
 ---
-I received my PhD from [Leipzig University (Faculty of Mathematics and Computer Science)](https://www.fmi.uni-leipzig.de/cms/en/startseite/) in 2020, under the supervision of [J&uuml;rgen Jost](https://www.mis.mpg.de/de/jjost/juergen-jost.html). Before joining MPI, I obtained my Masters and Bachelors degree from the Indian Institute of Technology (IIT) Kharagpur. 
+I did my PhD from [Leipzig University (Faculty of Mathematics and Computer Science)](https://www.fmi.uni-leipzig.de/cms/en/startseite/) in 2020, under the supervision of [J&uuml;rgen Jost](https://www.mis.mpg.de/de/jjost/juergen-jost.html). Before joining MPI, I obtained my Masters and Bachelors degree from the Indian Institute of Technology (IIT) Kharagpur. 
 
 You can read more about my research [here](https://e5150pro.github.io/publications/).
 
