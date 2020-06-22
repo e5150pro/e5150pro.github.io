@@ -15,7 +15,7 @@ Here is a list of publications that materialized from my PhD work. See also my [
 * Pradeep Kr. Banerjee, Guido Mont&uacute;far (2020)<br />
 **The Variational Deficiency Bottleneck**<br />
 *Proceedings of the International Joint Conference on Neural Networks*<br />
-[PDF](https://arxiv.org/pdf/1810.11677.pdf) | IJCNN 2020 (to appear)
+[PDF](https://arxiv.org/pdf/1810.11677.pdf) | [IJCNN 2020](https://wcci2020.org/ijcnn-2020-program/) (to appear)
 
 * Johannes Rauh\*, Pradeep Kr. Banerjee\*, Eckehard Olbrich, and J&uuml;rgen Jost (2019)<br />
 **Unique Information and Secret Key Decompositions**<br />
