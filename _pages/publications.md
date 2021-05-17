@@ -10,12 +10,23 @@ My research interests lie in the areas of information theory, statistics, and ma
 ---
 In my PhD, I developed new methods to decompose information into parts that allow for a fine-grained analysis of how information is distributed over composite systems consisting of multiple interacting parts or subsystems. These methods are potentially useful in applications ranging from neuroscience and representation learning, to robotics, and cryptography. 
 
-Here is a list of publications that materialized from my PhD work. See also my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=en) profile page.
+---
+Here is a list of publications. See also my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=en) profile page.
+
+* Pradeep Kr. Banerjee, Guido Mont&uacute;far (2021)<br />
+**Information Complexity and Generalization Bounds**<br />
+*Proceedings of the IEEE International Symposium on Information Theory*<br />
+[PDF](https://arxiv.org/pdf/2105.01747.pdf) | [ISIT 2021](https://2021.ieee-isit.org/) (to appear)
+
+* Pradeep Kr. Banerjee, Guido Mont&uacute;far (2021)<br />
+**PAC-Bayes and Information Complexity**<br />
+*ICLR 2021 Neural Compression Workshop*<br />
+[PDF](https://openreview.net/pdf?id=LPw-isa6Ngb)
 
 * Pradeep Kr. Banerjee, Guido Mont&uacute;far (2020)<br />
 **The Variational Deficiency Bottleneck**<br />
 *Proceedings of the International Joint Conference on Neural Networks*<br />
-[PDF](https://arxiv.org/pdf/1810.11677.pdf) | [IJCNN 2020](https://wcci2020.org/ijcnn-2020-program/) (to appear)
+[PDF](https://arxiv.org/pdf/1810.11677.pdf) | [IJCNN 2020](https://ieeexplore.ieee.org/document/9206900)
 
 * Johannes Rauh\*, Pradeep Kr. Banerjee\*, Eckehard Olbrich, and J&uuml;rgen Jost (2019)<br />
 **Unique Information and Secret Key Decompositions**<br />
