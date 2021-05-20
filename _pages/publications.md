@@ -11,7 +11,7 @@ My research interests lie in the areas of information theory, statistics, and ma
 In my PhD, I developed new methods to decompose information into parts that allow for a fine-grained analysis of how information is distributed over composite systems consisting of multiple interacting parts or subsystems. These methods are potentially useful in applications ranging from neuroscience and representation learning, to robotics, and cryptography. 
 
 ---
-See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=en) profile page for an updated list of publications.
+See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=en) page for an updated list of publications.
 
 * Pradeep Kr. Banerjee, Guido Mont&uacute;far (2021)<br />
 **Information Complexity and Generalization Bounds**<br />
@@ -51,6 +51,8 @@ See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=
 **On Extractable Shared Information**<br />
 [arXiv](https://arxiv.org/pdf/1701.07805.pdf) | [Entropy 2017, 19(7), 328](https://doi.org/10.3390/e19070328)
 
+---
+**Academic service**: Reviewer for ISIT, ICML, IEEE Transactions on Neural Networks and Learning Systems
 
 
 
