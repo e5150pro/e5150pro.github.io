@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research interests lie in the areas of information theory, statistics, and machine learning. My current focus is on understanding the implicit regularization and information stability properties of neural network optimization algorithms.
+My research interests lie in the areas of information theory, statistics, and machine learning. My current focus is on understanding the implicit regularization and stability properties of neural network optimization algorithms from an information-theoretic perspective.
 
 ---
 In my PhD, I developed new methods to decompose information into parts that allow for a fine-grained analysis of how information is distributed over composite systems consisting of multiple interacting parts or subsystems. These methods are potentially useful in applications ranging from neuroscience and representation learning, to robotics, and cryptography. 
@@ -52,7 +52,7 @@ See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=
 [arXiv](https://arxiv.org/pdf/1701.07805.pdf) | [Entropy 2017, 19(7), 328](https://doi.org/10.3390/e19070328)
 
 ---
-**Service**: Reviewer for ISIT, ICML, IEEE Transactions on Neural Networks and Learning Systems.
+**Service**: Reviewer for ICML, ISIT, IEEE Transactions on Neural Networks and Learning Systems.
 
 I co-organize the [Math Machine Learning seminar MPI MIS + UCLA](https://www.mis.mpg.de/montufar/seminars/math-ml-seminar.html) with [Guido Mont&uacute;far](https://www.math.ucla.edu/~montufar/). 
 
