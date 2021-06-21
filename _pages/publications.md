@@ -21,7 +21,7 @@ See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=
 * Pradeep Kr. Banerjee, Guido Mont&uacute;far (2021)<br />
 **PAC-Bayes and Information Complexity**<br />
 *ICLR 2021 Neural Compression Workshop*<br />
-[OpenReview](https://openreview.net/pdf?id=LPw-isa6Ngb)
+[OpenReview](https://openreview.net/pdf?id=LPw-isa6Ngb) | [Poster](https://github.com/e5150pro/e5150pro.github.io/blob/master/images/poster_ICLR_NeuralCompressionW.pdf)
 
 * Pradeep Kr. Banerjee, Guido Mont&uacute;far (2020)<br />
 **The Variational Deficiency Bottleneck**<br />
