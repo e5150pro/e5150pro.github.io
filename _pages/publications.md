@@ -13,17 +13,17 @@ In my PhD, I developed new methods to decompose information into parts that allo
 ---
 See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=en) page for an updated list of publications.
 
-* Pradeep Kr. Banerjee, Guido Mont&uacute;far (2021)<br />
+* Pradeep Kr. Banerjee and Guido Mont&uacute;far (2021)<br />
 **Information Complexity and Generalization Bounds**<br />
 *Proceedings of the IEEE International Symposium on Information Theory*<br />
 [arXiv](https://arxiv.org/pdf/2105.01747.pdf) | [ISIT 2021](https://2021.ieee-isit.org/Papers/ViewPaper.asp?PaperNum=1740) | [Slides](https://github.com/e5150pro/e5150pro.github.io/blob/master/images/DM_talk.pdf) of a talk at Google Deepmind
 
-* Pradeep Kr. Banerjee, Guido Mont&uacute;far (2021)<br />
+* Pradeep Kr. Banerjee and Guido Mont&uacute;far (2021)<br />
 **PAC-Bayes and Information Complexity**<br />
 *ICLR 2021 Neural Compression Workshop*<br />
 [OpenReview](https://openreview.net/pdf?id=LPw-isa6Ngb) | [Poster](https://github.com/e5150pro/e5150pro.github.io/blob/master/images/poster_ICLR_NeuralCompressionW.pdf)
 
-* Pradeep Kr. Banerjee, Guido Mont&uacute;far (2020)<br />
+* Pradeep Kr. Banerjee and Guido Mont&uacute;far (2020)<br />
 **The Variational Deficiency Bottleneck**<br />
 *Proceedings of the International Joint Conference on Neural Networks*<br />
 [arXiv](https://arxiv.org/pdf/1810.11677.pdf) | [IJCNN 2020](https://ieeexplore.ieee.org/document/9206900) | [Slides](https://github.com/e5150pro/e5150pro.github.io/blob/master/images/talk_VDB.pdf) 
