@@ -16,7 +16,7 @@ See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=
 * Pradeep Kr. Banerjee and Guido Mont&uacute;far (2021)<br />
 **Information Complexity and Generalization Bounds**<br />
 *Proceedings of the IEEE International Symposium on Information Theory*<br />
-[arXiv](https://arxiv.org/pdf/2105.01747.pdf) | [ISIT 2021](https://2021.ieee-isit.org/Papers/ViewPaper.asp?PaperNum=1740) | [Slides](https://github.com/e5150pro/e5150pro.github.io/blob/master/images/DM_talk.pdf) of a talk at Google Deepmind
+[arXiv](https://arxiv.org/pdf/2105.01747.pdf) | [ISIT 2021](https://2021.ieee-isit.org/Papers/ViewPaper.asp?PaperNum=1740) | [Slides](https://github.com/e5150pro/e5150pro.github.io/blob/master/images/DM_talk.pdf) of a talk at Google DeepMind
 
 * Pradeep Kr. Banerjee and Guido Mont&uacute;far (2021)<br />
 **PAC-Bayes and Information Complexity**<br />
