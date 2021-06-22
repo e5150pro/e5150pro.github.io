@@ -54,7 +54,7 @@ See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=
 ---
 **Service**: Reviewer for ISIT, NeurIPS, ICML, ICLR, IEEE Transactions on Neural Networks and Learning Systems.
 
-I co-organize the [Math Machine Learning seminar MPI MiS + UCLA](https://www.mis.mpg.de/montufar/seminars/math-ml-seminar.html) with [Guido Mont&uacute;far](https://www.math.ucla.edu/~montufar/). 
+I co-organize the [Math Machine Learning Seminar MPI MiS + UCLA](https://www.mis.mpg.de/montufar/seminars/math-ml-seminar.html) with [Guido Mont&uacute;far](https://www.math.ucla.edu/~montufar/). 
 
 
 
