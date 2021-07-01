@@ -52,7 +52,7 @@ See my [Google Scholar](http://scholar.google.de/citations?user=cnSjMBwAAAAJ&hl=
 [arXiv](https://arxiv.org/pdf/1701.07805.pdf) | [Entropy 2017, 19(7), 328](https://doi.org/10.3390/e19070328)
 
 ---
-**Service**: Reviewer for ISIT, NeurIPS, ICML, ICLR, IEEE Transactions on Neural Networks and Learning Systems.
+**Service**: Reviewer for ISIT, NeurIPS, ICML, ICLR, IEEE TNNLS.
 
 I co-organize the [Math Machine Learning Seminar MPI MiS + UCLA](https://www.mis.mpg.de/montufar/seminars/math-ml-seminar.html) with [Guido Mont&uacute;far](https://www.math.ucla.edu/~montufar/). 
 
